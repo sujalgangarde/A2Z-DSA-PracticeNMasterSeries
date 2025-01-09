@@ -9,8 +9,8 @@ public class Recursion{
         print(n+1); // Called itself again with diff. argument
     }
 
-// myfibo -- error
-    static int fibo(int n, int a, int b){
+// myfibo -- *Error
+/*    static int fibo(int n, int a, int b){
         int count=0;
         int num=0;
         while(count<n){
@@ -30,7 +30,7 @@ public class Recursion{
             }
         }
         return num;
-    }
+    } */
 
 // kk fibo
     static int fibokk(int n){
@@ -62,7 +62,7 @@ public class Recursion{
     // recursion can convert into iteration and vice versa
     // Space complexity is not constant bcz recursive calls. call need memory
     
-        // print(1);
+        print(1);
         
 // Q. fibonacci nos
         int n = 6;
