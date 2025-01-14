@@ -7,7 +7,7 @@ public class CodeUsingBitOp {
 
     static int findUnique(int[] arr){
         int uni = 0;
-        for (int n : arr) {
+        for (Object n : arr) {
             uni ^= n;
         }
         return uni;
@@ -22,8 +22,6 @@ public class CodeUsingBitOp {
     // Find num which appears only once
         int[] arr = {2, 3, 4, 2, 3};
         System.out.println(findUnique(arr));
-
-    
 
     }
 }
