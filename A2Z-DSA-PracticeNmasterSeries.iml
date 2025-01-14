@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/10th Switch &amp; Nested Case" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11th Functions &amp; Methods" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/12th Arrays &amp; ArrayLists" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13th Linear Search" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14th Binary Search" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/15th BinarySearch QUESTIONS" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/16th BinarySearch in 2D Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/17th Bubble Sort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/18th Selection Sort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19th Insertion Sort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/20th Cyclic Sort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/21st String &amp; StringBuilder" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/22nd PatternQues" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/23rd RecursionIntro" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/24th Time &amp; Space Cmoplexity" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9th Conditional &amp; Loops" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
