@@ -138,6 +138,8 @@ public class Questions{
         int a = 5;
         System.out.println(ans(num, a));
 
+// leetcode 1095
+// leetcode 33
 
 
     }
