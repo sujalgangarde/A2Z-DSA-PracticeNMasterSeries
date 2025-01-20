@@ -156,6 +156,7 @@ public class Level1{
     // with helper function and argument the count
         System.out.println(countArgZero(305200010)); // passing same value to above fun call
         
+// leetcode 1342
     }
 
 }
