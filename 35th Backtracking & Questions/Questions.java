@@ -123,7 +123,7 @@ public class Questions {
 
     public static void main(String[] args) {
         
-// Q. Maze Problem : there is 2d maze 3x3. person is at(0,0) and want to go at (2, 2) and only go in right or down dirction
+// Q. MAZE Problem : there is 2d maze 3x3. person is at(0,0) and want to go at (2, 2) and only go in right or down dirction
 /*
         3   2   1
     3 |   |   |   |
