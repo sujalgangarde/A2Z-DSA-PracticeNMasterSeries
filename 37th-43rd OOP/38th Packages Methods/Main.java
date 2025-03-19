@@ -44,9 +44,9 @@ public class Main {
 
     // SingleTon obj = new SingleTon(); error bcz private
     // in following no new obj is created it is only recalling same one
-        // SingleTon o = SingleTon.getInst();
-        // SingleTon o1 = SingleTon.getInst();
-        // SingleTon o2 = SingleTon.getInst();
+        SingleTon o = SingleTon.getInst();
+        SingleTon o1 = SingleTon.getInst();
+        SingleTon o2 = SingleTon.getInst();
 
 
     }
