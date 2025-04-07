@@ -1,0 +1,7 @@
+// package Inheritance;
+
+public class Types {
+
+    // 1. single 2. multilevel 3. multiple, 4. hierarchical, 5. hybrid
+
+}
