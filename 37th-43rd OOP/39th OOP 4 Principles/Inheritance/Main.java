@@ -35,6 +35,9 @@ public class Main {
         BoxPrice boxP2 = new BoxPrice(2, 3, 4, 5); // Constructor with parameters
         System.out.println(boxP2.l + " " + boxP2.w + " " + boxP2.h + " " + boxP2.cost); // 2.0 3.0 4.0 5.0
 
+        Box b = new BoxWeight();
+        b.greet();
+
     }
 
 }

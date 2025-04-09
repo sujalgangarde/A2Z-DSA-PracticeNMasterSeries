@@ -1,7 +1,7 @@
 // package Inheritance;
 
 public class Box {
-
+// as we put class as final methods in class auto became final
     private double v;
     double l;
     double w;
@@ -33,6 +33,10 @@ public class Box {
         this.l = oldBox.l;
         this.w = oldBox.w;
         this.h = oldBox.h;
+    }
+
+    static void greet(){
+        System.out.println("from box");
     }
 
     public void displayInfo() {

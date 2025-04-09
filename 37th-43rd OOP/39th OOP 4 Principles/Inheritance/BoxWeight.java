@@ -13,13 +13,16 @@ public class BoxWeight extends Box{
         this.weight = old.weight;
     }
 
-    
 
     public BoxWeight(double l, double w, double h, double weight) {
         super(l, w, h); // Call the constructor of the parent class (Box)
         this.weight = weight;
         System.out.println(super.w); // Accessing the width of the parent class (Box)
     }
-    
+
+    // @Override
+    static void greet(){ // can inherit but not override
+        System.out.println("BoxWeight");
+    }
 
 }
