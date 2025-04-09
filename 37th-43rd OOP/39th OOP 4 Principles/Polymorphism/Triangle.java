@@ -1,7 +1,7 @@
 
 
 public class Triangle extends Shapes{
-    void area() {
+    void areas() {
         System.out.println(".5 * base * height");
     }
 }

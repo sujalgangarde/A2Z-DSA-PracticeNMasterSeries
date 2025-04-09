@@ -2,7 +2,7 @@
 
 public class Circle extends Shapes {
 
-    void area() {
+    void areas() {
         System.out.println("pi * radius * radius");
     }
 
